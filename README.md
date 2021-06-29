@@ -2,7 +2,7 @@
 
 ## How to build
 
-THIS WILL ONLY WORK ON LINUX.
+(This has been tested on Linux & macOS)
 
 Build the Rust code:
 
